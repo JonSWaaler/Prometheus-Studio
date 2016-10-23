@@ -1,0 +1,25 @@
+#include<iostream>
+
+
+using namespace std;
+
+
+
+int main()
+{
+	char t;
+	t = -36;
+	cout << "    ______._____  " << endl;
+	cout << "     \\--cC" << t << "D-  \n" << endl;
+	/*
+	cout << t << t << t << t << t << t << endl;
+	t = -77;
+
+	t = 77;
+	while (t > -80) {
+		t--;
+		cout << t<<"\n"<<endl;
+	
+	}
+*/
+}
